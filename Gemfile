@@ -1,7 +1,7 @@
 ruby '2.2.4'
 source 'https://rubygems.org'
 
-gem 'rails', '5.0.0beta3'
+gem 'rails', '5.0.0.rc1'
 gem 'rails-i18n', '5.0.0.beta3'
 
 gem 'bcrypt', '~> 3.1.7'
